@@ -6,7 +6,7 @@ This project demonstrates image segmentation using the Mask R-CNN model.
 
 1. **Clone the repository**:
     ```bash
-    git clone [<repository_url>](https://github.com/matterport/Mask_RCNN.git)
+    git clonec https://github.com/matterport/Mask_RCNN.git
     cd Mask_RCNN
     ```
 
@@ -17,7 +17,7 @@ This project demonstrates image segmentation using the Mask R-CNN model.
 
 3. **Download pre-trained weights**:
     ```bash
-    wget [<link_to_coco_weights>](https://github.com/matterport/Mask_RCNN/releases)
+    wget https://github.com/matterport/Mask_RCNN/releases
     ```
 
 ## Usage
